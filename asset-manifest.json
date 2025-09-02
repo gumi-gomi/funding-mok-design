@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/funding-mok-design/static/css/main.be5256bd.css",
-    "main.js": "/funding-mok-design/static/js/main.94eccbb5.js",
+    "main.js": "/funding-mok-design/static/js/main.8fbafce4.js",
     "static/media/bodyinner2bg.png": "/funding-mok-design/static/media/bodyinner2bg.a8eeaa5fd516538042b8.png",
     "static/media/sample1.webp": "/funding-mok-design/static/media/sample1.ac0f10137a84eb8957f4.webp",
     "static/media/main1.webp": "/funding-mok-design/static/media/main1.e2fb06c19a6a7bd5ed9a.webp",
@@ -9,16 +9,16 @@
     "static/media/intro1.webp": "/funding-mok-design/static/media/intro1.6298e229003788a5e521.webp",
     "static/media/main3.webp": "/funding-mok-design/static/media/main3.e0429b17761cf6847836.webp",
     "static/media/sample2.webp": "/funding-mok-design/static/media/sample2.017de87ae535535a4e46.webp",
-    "static/media/chart.png": "/funding-mok-design/static/media/chart.278ed9b62fa11070fa59.png",
+    "static/media/chart.png": "/funding-mok-design/static/media/chart.badc22c5dc3d53a03344.png",
     "static/media/contactimg.webp": "/funding-mok-design/static/media/contactimg.39a7889a5d02ec8b5309.webp",
     "static/media/sample3.webp": "/funding-mok-design/static/media/sample3.544bf2ceafd8030686f1.webp",
     "static/media/arrow.webp": "/funding-mok-design/static/media/arrow.eb6cc1423776334a9743.webp",
     "index.html": "/funding-mok-design/index.html",
     "main.be5256bd.css.map": "/funding-mok-design/static/css/main.be5256bd.css.map",
-    "main.94eccbb5.js.map": "/funding-mok-design/static/js/main.94eccbb5.js.map"
+    "main.8fbafce4.js.map": "/funding-mok-design/static/js/main.8fbafce4.js.map"
   },
   "entrypoints": [
     "static/css/main.be5256bd.css",
-    "static/js/main.94eccbb5.js"
+    "static/js/main.8fbafce4.js"
   ]
 }
