@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/funding-mok-design/static/css/main.be5256bd.css",
-    "main.js": "/funding-mok-design/static/js/main.64673dab.js",
+    "main.js": "/funding-mok-design/static/js/main.e629a06d.js",
     "static/media/bodyinner2bg.png": "/funding-mok-design/static/media/bodyinner2bg.a8eeaa5fd516538042b8.png",
     "static/media/sample1.webp": "/funding-mok-design/static/media/sample1.ac0f10137a84eb8957f4.webp",
     "static/media/main1.webp": "/funding-mok-design/static/media/main1.e2fb06c19a6a7bd5ed9a.webp",
@@ -12,13 +12,16 @@
     "static/media/chart.png": "/funding-mok-design/static/media/chart.badc22c5dc3d53a03344.png",
     "static/media/contactimg.webp": "/funding-mok-design/static/media/contactimg.39a7889a5d02ec8b5309.webp",
     "static/media/sample3.webp": "/funding-mok-design/static/media/sample3.544bf2ceafd8030686f1.webp",
+    "static/media/howtouseimg.webp": "/funding-mok-design/static/media/howtouseimg.4096d02a4c7323c28138.webp",
+    "static/media/fundimg.webp": "/funding-mok-design/static/media/fundimg.ad3114d818c6df3960df.webp",
     "static/media/arrow.webp": "/funding-mok-design/static/media/arrow.eb6cc1423776334a9743.webp",
+    "static/media/explainimg.webp": "/funding-mok-design/static/media/explainimg.26e5a53b95a37fd351fe.webp",
     "index.html": "/funding-mok-design/index.html",
     "main.be5256bd.css.map": "/funding-mok-design/static/css/main.be5256bd.css.map",
-    "main.64673dab.js.map": "/funding-mok-design/static/js/main.64673dab.js.map"
+    "main.e629a06d.js.map": "/funding-mok-design/static/js/main.e629a06d.js.map"
   },
   "entrypoints": [
     "static/css/main.be5256bd.css",
-    "static/js/main.64673dab.js"
+    "static/js/main.e629a06d.js"
   ]
 }
