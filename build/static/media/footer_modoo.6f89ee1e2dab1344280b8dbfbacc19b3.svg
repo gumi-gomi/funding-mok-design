@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 130" role="img" aria-label="모두의 창업">
+  <rect width="320" height="130" fill="none"/>
+  <g fill="#1477e8" font-family="Arial, 'Noto Sans KR', sans-serif" font-weight="900">
+    <text x="74" y="54" font-size="36">모두의</text>
+    <text x="106" y="91" font-size="36">창업</text>
+  </g>
+  <path d="M194 28H274L194 94Z" fill="#1477e8"/>
+</svg>
