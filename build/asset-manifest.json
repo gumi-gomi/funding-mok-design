@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/funding-mok-design/static/css/main.be5256bd.css",
-    "main.js": "/funding-mok-design/static/js/main.e6ffe76a.js",
+    "main.js": "/funding-mok-design/static/js/main.ce7e336d.js",
     "static/media/bodyinner2bg.png": "/funding-mok-design/static/media/bodyinner2bg.ecbe02b73520da03bd8e.png",
     "static/media/footer2.png": "/funding-mok-design/static/media/footer2.6a841ff8af85a5e9d93a.png",
     "static/media/main2.webp": "/funding-mok-design/static/media/main2.a1ae79296b97aee4047c.webp",
@@ -21,10 +21,10 @@
     "index.html": "/funding-mok-design/index.html",
     "static/media/footer_modoo.svg": "/funding-mok-design/static/media/footer_modoo.6f89ee1e2dab1344280b8dbfbacc19b3.svg",
     "main.be5256bd.css.map": "/funding-mok-design/static/css/main.be5256bd.css.map",
-    "main.e6ffe76a.js.map": "/funding-mok-design/static/js/main.e6ffe76a.js.map"
+    "main.ce7e336d.js.map": "/funding-mok-design/static/js/main.ce7e336d.js.map"
   },
   "entrypoints": [
     "static/css/main.be5256bd.css",
-    "static/js/main.e6ffe76a.js"
+    "static/js/main.ce7e336d.js"
   ]
 }
