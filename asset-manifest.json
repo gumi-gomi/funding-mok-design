@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/funding-mok-design/static/css/main.be5256bd.css",
-    "main.js": "/funding-mok-design/static/js/main.f113aedf.js",
+    "main.js": "/funding-mok-design/static/js/main.e6ffe76a.js",
     "static/media/bodyinner2bg.png": "/funding-mok-design/static/media/bodyinner2bg.ecbe02b73520da03bd8e.png",
     "static/media/footer2.png": "/funding-mok-design/static/media/footer2.6a841ff8af85a5e9d93a.png",
     "static/media/main2.webp": "/funding-mok-design/static/media/main2.a1ae79296b97aee4047c.webp",
     "static/media/main1.webp": "/funding-mok-design/static/media/main1.5a6cf54d69bb4bd89d0e.webp",
     "static/media/main3.webp": "/funding-mok-design/static/media/main3.488c6eb95ba9fc26501e.webp",
     "static/media/footer1.png": "/funding-mok-design/static/media/footer1.5181a31b1df4bd35c1ed.png",
+    "static/media/footer_deajeon.png": "/funding-mok-design/static/media/footer_deajeon.5842f7d90de03760f0bf.png",
     "static/media/sample1.webp": "/funding-mok-design/static/media/sample1.ac0f10137a84eb8957f4.webp",
     "static/media/intro1.webp": "/funding-mok-design/static/media/intro1.6298e229003788a5e521.webp",
     "static/media/sample2.webp": "/funding-mok-design/static/media/sample2.017de87ae535535a4e46.webp",
@@ -18,13 +19,12 @@
     "static/media/explainimg.webp": "/funding-mok-design/static/media/explainimg.4360ee9390d841987d6c.webp",
     "static/media/arrow.webp": "/funding-mok-design/static/media/arrow.eb6cc1423776334a9743.webp",
     "index.html": "/funding-mok-design/index.html",
-    "static/media/footer_daejeon.svg": "/funding-mok-design/static/media/footer_daejeon.6e54c077e35ef2c2423436db714358b6.svg",
     "static/media/footer_modoo.svg": "/funding-mok-design/static/media/footer_modoo.6f89ee1e2dab1344280b8dbfbacc19b3.svg",
     "main.be5256bd.css.map": "/funding-mok-design/static/css/main.be5256bd.css.map",
-    "main.f113aedf.js.map": "/funding-mok-design/static/js/main.f113aedf.js.map"
+    "main.e6ffe76a.js.map": "/funding-mok-design/static/js/main.e6ffe76a.js.map"
   },
   "entrypoints": [
     "static/css/main.be5256bd.css",
-    "static/js/main.f113aedf.js"
+    "static/js/main.e6ffe76a.js"
   ]
 }
